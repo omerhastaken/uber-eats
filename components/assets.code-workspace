@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "assets",
+		"path": "../../../Downloads/LIVE-uber-eats-clone-youtube-master/assets"
+	},
+	{
+		"name": "uber-eats",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
